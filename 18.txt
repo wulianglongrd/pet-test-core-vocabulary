@@ -30,7 +30,7 @@ fiction
 non-fiction
 thriller
 biography
-ero
+hero
 story
 mystery
 poem
