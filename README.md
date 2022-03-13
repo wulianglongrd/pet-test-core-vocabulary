@@ -3,6 +3,14 @@
 PET test 2800 core vocabulary
 
 ## list
+- 01 Food and Drink
+- 02 Cooking
+- 03 Describing one's Home
+- 04 Family
+- 05 Friends
+- 06 Appliances
+- 07 Articles for Daily Use
+- 08 Clothes and Accessories
 - 17 Hobbies and Leisure Activities
 - 18 Culture and Art
 - 19 Society
