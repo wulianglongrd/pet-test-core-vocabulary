@@ -61,7 +61,7 @@ buffet
 cafe
 menu
 cafeteria
-snak
+snack
 hungry
 full
 barbecue
